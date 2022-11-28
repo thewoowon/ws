@@ -1,0 +1,7 @@
+{
+    "ignore": [
+        "node_modules",
+        "src/public/*"
+    ],
+    "exec" : "babel-node src/server.js"
+}
